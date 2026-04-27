@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy Lucas Balfagón 👋
 
-<!--
-**LucasBalfagon/LucasBalfagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de último año del **Grado en Física** en la **Universidad Complutense de Madrid (UCM)** 🏛️. 
 
-Here are some ideas to get you started:
+Actualmente estoy inmerso en la recta final de la carrera, y he creado este espacio en GitHub principalmente para compartir el código de mi Trabajo de Fin de Grado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 ¿Qué vas a encontrar en mi perfil?
+
+* 📂 **Mi TFG:** Por ahora, aquí comparto todos los códigos, scripts y análisis que he desarrollado para mi proyecto sobre sistemas multiagente y Guiding Vector Fields. 
+* 🌱 **Próximamente:** ¡Esto es solo el principio! Mi idea es ir añadiendo y compartiendo más cosas poco a poco: proyectos futuros, simulaciones físicas o códigos interesantes que vaya desarrollando.
+
+### 🛠️ Lenguajes de programación
+* Python 🐍
+* MATLAB 📊
+* LaTeX 📝
+
+### 📫 Contacto
+* ✉️ **Email:** lucasbalfagonz@gmail.com
